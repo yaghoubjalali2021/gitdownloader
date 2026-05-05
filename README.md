@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [antiX-26_x64-full](https://github.com/yaghoubjalali2021/gitdownloader/tree/main/downloads/antiX-26_x64-full)
+
+---
